@@ -1,0 +1,104 @@
+MÊS;DATA;CLIENTE;MODELO;COR;TIPO;COR2;ALÇA ;ZÍPER;VALOR (R$);VALOR (USD);FRETE (R$);CANAL DE VENDA;FORMA DE PAGAMENTO ;CIDADE;ESTADO
+1;02/01/2024;Leonardo Guerra Maio Ribeiro;Wallow;Original Bege;Original 2021;Vinho;Marrom;0;650;130,36;50;Shopify;dLocal;Rio de Janeiro;RJ
+1;04/01/2024;Luiza Figueiredo;Wallow;Original Rosa;Toujours Asas;Dourado / Rosa Choque;Dourado;0;530;107,07;35;Shopify;Stripe;São Paulo;SP
+1;05/01/2024;Marcelo Marques Roncaglia;Nuna;Marant Rosa;Estrela;Vermelho;Vermelho;1;540;109,09;35;Shopify;Stripe;São Paulo;SP
+1;07/01/2024;Andre Giacchetta;Wallow;Original Laranja;Estrela;Branco / Prata;Marrom;1;560;113,59;35;Shopify;Stripe;São Paulo;SP
+1;08/01/2024;Sofia Segatto da Costa Campos;Nuna;Marant Verde;Koelles 2023;Dourado  ;Marrom;1;530;108,83;60;Shopify;Stripe;Brasília;DF
+1;10/01/2024;Valentina Tanus;Nuna;Jeans Escuro;Toujours  ;Rosa;Rosa;1;590;120,63;35;Shopify;dLocal;São Paulo;SP
+1;10/01/2024;Giovana Montanari;Necessaire;Original Aqua;Azul;Rosa;Rosa;1;280;57,25;35;Shopify;dLocal;Patrocínio;Brasil
+1;17/01/2024;Isadora Koerich;Necessaire;Beijo Cru;Azul;Rosa;Rosa;1;280;56,8;35;Shopify;Stripe;Florianópolis;SC
+1;28/01/2024;João Luiza Macedo;Nuna;Jeans Escuro;Azul;Bag Atelier 2023;Azul;0;530;107,9;35;Shopify;Stripe;São Paulo;SP
+1;28/01/2024;João Luiza Macedo;Nuna;Jeans;Azul;Bag Atelier 2023;Azul;0;530;107,9;35;Shopify;Stripe;São Paulo;SP
+1;31/01/2024;Laysla Vitoria Infante dos Santos;Necessaire;Original Rosa;Azul;Rosa;Rosa;1;280;56,71;35;Shopify;Stripe;Americana ;SP
+2;05/02/2024;Carolina Torresini;Wallow;Original Rosa;Espelhado;Dourado;Rosa Escuro;0;575;115,46;35;Shopify;Stripe;Belo Horizonte;MG
+2;05/02/2024;Ana Francisca Coutinho;Wallow;Original Aqua;Estrela;Prata / Marinho;Prata;0;575;115,46;35;Shopify;dLocal;Campinas;SP
+2;05/02/2024;Geovanna Lobo;Wallow;Original Lilac;Estrela;Dourado / Rosa Choque;Rosa;0;575;115,46;60;Shopify;Stripe;Vila Planalto;DF
+2;05/02/2024;Ivana Binda;Wallow;Original Verde;Estrela;Prata / Marinho;Preto;1;585;117,47;35;Shopify;Stripe;São Paulo;SP
+2;05/02/2024;Leila Xavier;Wallow;Original Amarelo;Estrela;Prata / Marinho;Dourado;0;555;111,45;35;Shopify;dLocal;São Sebastião do Paraíso;MG
+2;05/02/2024;Ivana Binda;Wallow;Original Amarelo;Estrela;Dourado / Rosa Choque;Vermelho;0;530;106,43;35;Shopify;Stripe;São Paulo;SP
+2;05/02/2024;Nathalie Weissman;Wallow;Original Lilac;Espelhado;Dourado;Preto;0;575;115,46;35;Shopify;Stripe;São Paulo;SP
+2;05/02/2024;Laura Ajuz;Wallow;Original Lilac;Original 2021;Prata  ;Rosa;0;575;115,46;50;Shopify;dLocal;Rio de Janeiro;RJ
+2;05/02/2024;Maria Luisa Assis;Wallow;Original Rosa;Made in Brazil;Marinho;Marinho;0;615;123,49;35;Shopify;Stripe;São Paulo;SP
+2;05/02/2024;Gustavo Razuk;Wallow;Original Rosa;Toujours Asas;Vinho / Dourado;Vinho;0;535;107,43;35;Shopify;Stripe;São Paulo;SP
+2;05/02/2024;Sofia Shimazu;Nuna;Marant Rosa;Toujours Asas;Vinho / Dourado;Rosa Claro;1;610;122,49;35;Shopify;dLocal;Lorena;SP
+2;05/02/2024;Maria Dalia Macedo;Wallow;Original Aqua;Estrela;Prata / Marinho;Off White;0;575;115,46;40;Shopify;Stripe;Goiânia;GO
+2;06/02/2024;Gabriella Moura Ferreira;Wallow;Original Amarelo;Original 2021;Azul;Azul;0;645;129,47;35;Shopify;Stripe;São Paulo;SP
+2;06/02/2024;Maria Ceravolo;Necessaire;Original Rosa;Azul;Rosa;Rosa;1;280;56,2;35;Shopify;Stripe;São Paulo;SP
+2;06/02/2024;Simone Gomes Rodrigues;Nuna;Jeans Claro;Toujours Asas;Prata / Marinho;Prata;1;535;107,39;40;Shopify;Stripe;Campo Grande;MS
+2;08/02/2024;Sandra Moreira;Nuna;Jeans Claro;Estrela;Rosa Choque;Off White;1;530;106,03;35;Shopify;Stripe;Curitiba;PR
+2;08/02/2024;Vivi Kano;Wallow;Original Aqua;Espelhado;Dourado;Dourado;0;555;111,03;35;Shopify;Stripe;São Paulo;SP
+2;10/02/2024;Manuela Grube Basile;Wallow;Original Verde;Toujours Asas;Prata / Marinho;Prata;1;640;130,88;35;Shopify;Stripe;São Paulo;SP
+2;11/02/2024;Roselaine Correia;Wallow;Original Lilac;Espelhado;Dourado;Preto;0;575;117,39;35;Shopify;Stripe;Carapicuba;SP
+2;13/02/2024;Giovanna Flaiano;Wallow;Original Verde;Made in Brazil;Marinho;Off White;0;610;124,54;35;Shopify;dLocal;Santo André;SP
+2;13/02/2024;Clara Cavalcante;Nuna;Jeans Escuro;Toujours;Rosa;Rosa;1;590;120,46;35;Shopify;Stripe;Jacareí;SP
+2;16/02/2024;Luiza Beatriz de Freitas Costa;Wallow;Original Rosa;Made in Brazil;Dourado;Dourado;0;620;124,85;35;Shopify;Stripe;Ribeirão Preto;SP
+2;16/02/2024;Larissa Mun;Wallow;Original Amarelo;Made in Brazil;Dourado;Vermelho;0;585;117,8;35;Shopify;dLocal;São Paulo;SP
+2;17/02/2024;Ana Gordinho;Wallow;Original Verde;Original 2021;Prata;Preto;0;510;102,97;35;Shopify;Stripe;São Paulo;SP
+2;20/02/2024;Sarah de Freitas;Nuna;Marant Rosa;Toujours Asas;Vinho / Dourado;Vinho;1;620;125,76;35;Shopify;Stripe;Cuiabá;MT
+2;21/02/2024;Sophia Hansen;Wallow;Original Aqua;Espelhado;Dourado;Dourado;0;575;116,44;35;Shopify;Stripe;Santo André;SP
+2;28/02/2024;Alexandre Afonso Andrade;Wallow;Original Amarelo;Espelhado;Dourado;Marrom;0;585;117,72;35;Shopify;Stripe;Belo Horizonte;MG
+2;28/02/2024;Maria Eduarda Rossetti;Wallow;Original Lilac;Original 2021;Azul;Azul;0;575;115,71;35;Shopify;Stripe;São Paulo;SP
+2;28/02/2024;Maria Fernanda Maciaverni;Wallow;Original Verde;Espelhado;Dourado;Rosa Escuro;1;600;120,74;35;Shopify;Stripe;São Paulo;SP
+2;28/02/2024;Leticia Nogueira;Wallow;Original Lilac;Original 2021;Prata;Preta;0;695;139,86;35;Shopify;Stripe;São Paulo;SP
+2;28/02/2024;Sophia Auton;Nuna;Jeans Claro;Estrela;Prata / Marinho;Marinho;1;560;112,69;50;Shopify;Stripe;Rio de Janeiro;RJ
+2;28/02/2024;Leticia Mosca;Wallow;Original Amarelo;Made in Brazil;Marinho;Preto;0;665;133,82;35;Shopify;Stripe;São Paulo;SP
+2;28/02/2024;Cintia Lee;Wallow;Original Aqua;Toujours Asas;Prata / Marinho;Marinho;0;565;113,7;35;Shopify;Stripe;São Paulo;SP
+2;28/02/2024;Isadora Dias;Wallow;Original Amarelo;Toujours Asas;Vinho / Dourado;Marrom Escuro;0;560;112,69;35;Shopify;Stripe;Itajaí;SC
+2;28/02/2024;Isabel Salles;Nuna;Marant Pink;Original 2021;Azul;Rosa;1;580;116,71;35;Shopify;Stripe;São Paulo;SP
+2;28/02/2024;Manoela Coelho;Wallow;Original Amarelo;Espelhado;Dourado;Rosa;0;530;106,65;35;Shopify;Stripe;São Paulo;SP
+2;28/02/2024;Manoela Coelho;Wallow;Original Laranja;Original 2021;Branco  ;Marrom Escuro;1;560;112,69;35;Shopify;Stripe;São Paulo;SP
+2;28/02/2024;Priscila Moliterno;Wallow;Original Amarelo;Original 2021;Prata;Amarelo;0;535;107,66;35;Shopify;Stripe;São Paulo;SP
+2;28/02/2024;Isabel Salles;Wallow;Original Amarelo;Toujours Asas;Prata / Marinho;Off White;0;620;124,76;35;Shopify;Stripe;São Paulo;SP
+2;28/02/2024;Karen Botelho;Wallow;Original Lilac;Toujours Asas;Vinho / Dourado;Off White;0;540;108,67;35;Shopify;Stripe;São Paulo;SP
+2;28/02/2024;Stephanie Mendonca;Nuna;Marant Pink;Estrela;Rosa Choque;Vermelho;1;530;106,65;35;Shopify;Stripe;São Paulo;SP
+2;29/02/2024;Maria Luiza de Moraes;Wallow;Original Laranja;Original 2021;Azul;Azul;1;580;116,65;60;Shopify;Stripe;Fortaleza;CE
+3;01/03/2024;Ana Paula Alves Correia;Wallow;Original Bege;Original 2021;Azul;Marrom;1;600;121,1;15;Instagram;Pix (NuBank);São Paulo;SP
+3;03/03/2024;Ana Paula Naffah Perez;Nuna;Jeans;Estrela;Dourado / Rosa Choque;Dourado;1;560;107,69;35;Shopify;Stripe;São Paulo;SP
+3;06/03/2024;Roberta C X S Dale;Necessaire;Original Azul;Azul;Rosa;Rosa;1;285;57,3;35;Shopify;Stripe;São Paulo;SP
+3;10/03/2024;Andressa Porto Ferreira;Wallow;Original Laranja;Original 2021;Azul;Azul;1;580;111,11;35;Shopify;Stripe;São Paulo;SP
+3;12/03/2024;José Augusto de Sousa Junior;Nuna;Jeans Escuro;Made in Brazil;Dourado;Vermelho;1;615;123,64;35;Shopify;Stripe;Ribeirão Preto;SP
+3;12/03/2024;Gabriela Costa;Wallow;Original Amarelo;Original 2021;Vinho;Marrom;0;530;106,55;35;Shopify;Stripe;São Paulo;SP
+3;12/03/2024;Manuela Guareschi;Wallow;Original Laranja;Original 2021;Prata;Off White;1;580;116,61;35;Shopify;Stripe;São Paulo;SP
+3;12/03/2024;Luciana Figueroa;Wallow;Original Verde;Original 2021;Azul;Rosa Claro;1;530;106,55;35;Shopify;Stripe;São Paulo;SP
+3;12/03/2024;Melissa Wu;Nuna;Marant Verde;Estrela;Prata / Marinho;Prata;1;585;117,61;35;Shopify;Stripe;São Paulo;SP
+3;12/03/2024;Vitoria Camicia;Wallow;Original Laranja;Toujours Asas;Prata / Marinho;Marinho;0;545;109,57;50;Shopify;Stripe;Sorriso;MT
+3;13/03/2024;Bruna Ferreira;Nuna;Marant Pink;Original 2021;Prata;Rosa;1;585;117,57;35;Shopify;Stripe;São Paulo;SP
+3;13/03/2024;Maria Eduarda Paiva Pinto Coelho;Nuna;Jeans;Koelles 2023;Dourado;Preto;1;580;116,57;60;Shopify;Stripe;Eusébio;CE
+3;14/03/2024;Maia Aparecida Moraes de Luca;Nuna;Marant Pink;Koelles 2023;Dourada;Rosa;1;580;116,19;35;Shopify;Stripe;São Paulo;SP
+3;14/03/2024;Gabriela Ueda;Wallow;Original Lilac;Original 2021;Pêssego;Prata;0;685;130,73;35;WhatsApp;Pix (NuBank);Lavras;MG
+3;17/03/2024;Isabela Albuquerque;Nuna;Jeans Escuro;Estrela;Rosa Choque;Azul;1;530;101,15;35;Shopify;Stripe;São Paulo;SP
+3;17/03/2024;Rhaquel de Assis;Wallow;Original Lilac;Made in Brazil;Branco;Caramelo;0;535;102,1;15;WhatsApp;Stripe;São Paulo;SP
+3;18/03/2024;Maria Luisa Abuhassan Scharra;Nuna;Marant Verde;Toujours Asas;Prata / Marinho;Marrom Escuro;1;555;110,43;35;Shopify;Stripe;São Paulo;SP
+3;19/03/2024;Vitoria Camicia;Wallow;Original Lilac;Estrela;Branco / Dourado;Marrom Escuro;0;515;102,41;50;Shopify;Stripe;Sorriso;MT
+3;19/03/2024;Mariana Menegatti;Wallow;Original Aqua;Original 2021;Pêssego;Off White;0;630;125,27;35;Shopify;Stripe;São Paulo;SP
+3;19/03/2024;Ludimila Fagundes;Nuna;Marant Rosa;Original 2021;Pêssego;Off White;0;635;126,27;35;Shopify;Stripe;Aracajú;SE
+3;19/03/2024;Ysadora Carvalho;Wallow;Original Amarelo;Made in Brazil;Branco;Prata;0;630;125,27;35;Shopify;Stripe;Guararapes;PE
+3;19/03/2024;Marina Aquino;Nuna;Marant Rouge;Estrela;Branco / Dourado;Rosa Escuro;1;625;124,28;35;Shopify;Stripe;São Paulo;SP
+3;19/03/2024;Sophia Braga;Nuna;Jeans;Estrela;Branco / Dourado;Marrom Escuro;0;535;106,38;50;Shopify;Stripe;Rio de Janeiro;RJ
+3;20/03/2024;Camila Guimarães;Wallow;Original Aqua;Made in Brazil;Branco;Marrom;0;625;125,64;35;Shopify;Stripe;São Paulo;SP
+3;20/03/2024;Anna Clara Jordan;Nuna;Marant Rosa;Original 2021;Branco;Marrom;1;585;117,6;35;Shopify;Stripe;Curitiba;PR
+3;21/03/2024;Renata Koelle;Nuna;Marant Verde;Koelles 2023;Prata;Verde Escuro;0;550;110,44;35;Shopify;Pix (NuBank);São Paulo;SP
+3;21/03/2024;Eduardo Antelo;Nuna;Marant Pink;Espelhado;Roxo escuro;Azul;1;555;111,45;35;Shopify;Pix (NuBank);São Paulo;SP
+3;21/03/2024;Iasmin Pereira;Wallow;Original Amarelo;Original 2021;Pêssego;Amarelo;1;675;135,54;35;Shopify;Stripe;São Paulo;SP
+3;22/03/2024;Mariana Fontoura;Wallow;Original Aqua;Original 2021;Pêssego;Off White;0;666;166,51;35;WhatsApp;Stripe;São Paulo;SP
+3;25/03/2024;Camila Parella Zapparoli;Nuna;Marant Rouge;Bag Atelier 2023;Vinho;Dourado;1;665;133,5;35;Shopify;Stripe;São Carlos;SP
+3;25/03/2025;Camila Parella Zapparoli;Nuna;Marant Verde;Made in Brazil;Marinho;Off White;1;645;129,49;;Shopify;Stripe;São Carlos;SP
+3;25/03/2024;Rebecca Abad;Wallow;Original Amarelo;Original 2021;Pêssego;Duo Off White e Caramelo;1;535;107,39;35;Shopify;Stripe;São Paulo;SP
+3;26/03/2024;Luiza Martinez;Wallow;Original Aqua;Espelhado;Prata;Preto;1;580;116,47;35;Shopify;Stripe;São Paulo;SP
+3;26/03/2024;Vitória Yoo Guimarães;Wallow;Original Rosa;Espelhado;Prata;Duo Off White e Bege;1;670;134,54;35;Shopify;Stripe;São Paulo;SP
+3;26/03/2024;Valentina Diniz;Wallow;Original Amarelo;Bag Atelier 2023;Vinho;Marrom;1;540;108,43;35;Shopify;Stripe;Brasília;DF
+3;27/03/2024;Isabella Milano;Wallow;Original Lilac;Bag Atelier 2023;Vinho;Prata;1;570;114,46;35;Shopify;Stripe;São Paulo;SP
+4;01/04/2024;Veridiana Barros Duarte;Wallow;Original Aqua;Estrela;Dourado e branco;Dourado;1;650;127,57;35;Shopify;Stripe;São Paulo;SP
+4;02/04/2024;Júlia Mattucci;Nuna;Marant Bege;Espelhado;Azul;Marinho;1;555;109,93;35;Shopify;Pix (Nubank);Sorocaba;SP
+4;06/02/2024;Iris Meneghel;Wallow;Original Lilac;Espelhado;Prata;Rosa Escuro;1;660;125,12;35;Shopify;Stripe;Curitiba;PR
+4;08/04/2024;Maria eduarda Garcia de Oliveira Neves;Wallow;Original Amarelo;Estrela;Dourado e branco;Vermelho;1;615;122,27;35;Shopify;Stripe;São José do Rio Preto;SP
+4;08/04/2024;Fernanda Carnevalli;Nuna;Jeans Claro;Original 2021;Pêssego;Couro Bege;1;570;134,43;35;Shopify;Pix (Nubank);São Paulo;SP
+4;08/04/2024;Ana Julia Morozowski;Wallow;Original Lilac;Espelhado;Prata;Preto;1;700;134,44;35;Shopify;Pix (Nubank);Curitiba;PR
+4;09/04/2024;Adriana C Cintra;Wallow;Original Lilac;Koelles 2023;Azul Claro;Off White;1;695;138,14;35;Shopify;Stripe;São Paulo;SP
+4;10/04/2024;Luisa Goshima;Nuna;Marant Verde;Made in Brazil;Branco;Marrom;1;695;138,14;35;Shopify;Pix (Nubank);São Paulo;SP
+4;10/04/2024;Mariana Magaldi;Wallow ;Original Amarelo;Original 2021;Pêssego;Couro Bege;1;560;111,31;35;Shopify;Stripe;Parnaíba;SP
+4;10/04/2024;Luiz Carlos Bueno Ferreira Junior Ferreira;Nuna;Jeans Claro;Estrela;Dourado e branco;Marrom;1;570;113,29;35;Shopify;Stripe;São Paulo;SP
+4;11/04/2024;Luiz Antonio Capasso;Nuna;Bege;Bag Atelier 2023;Vinho;Vermelho;1;570;118,84;35;WhatsApp;Pix (Nubank);São Paulo;SP
+4;12/04/2024;Enzo Gimenez;Wallow;Original Amarelo;Original 2021;Pêssego;Amarelo;1;560;108,78;35;Shopify;Stripe;São Paulo;SP
+4;12/04/2024;Carolina Glycerio;Wallow;Original Amarelo;Original 2022;Pêssego;Off White;1;560;108,78;35;Shopify;Stripe;São Paulo;SP
+4;14/04/2024;Ana Figueiredo;Necessaire;Original Azul;Azul;Rosa;Caramelo;1;280;54,14;35;Shopify;Stripe;São Paulo;SP
